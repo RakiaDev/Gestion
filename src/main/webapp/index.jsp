@@ -17,7 +17,7 @@
   
 <body>
 	
-<header id="header"><p>Formation @Devops@ RAKIA Exam 701: DevOps Tools Engineer | LPI...</p></header>
+<header id="header"><p>Ex1 @Devops@ RAKIA Exam 701: DevOps Tools Engineer | LPI...</p></header>
 	</br></br>
 
   <center> 
@@ -25,8 +25,12 @@
 	  
 	  <h1 >  Groupe devops :)------------->Tests Jenkins |> <img src="good.png"  height="50" width="50"> </h1> 
 	  
+	  
 	  </br>
           <img src="Jenkins.png"  height="300" width="300"> 
+		  
+	  </br>
+          <img src="dockerlogo.png"  height="300" width="300"> 
   </center>
 
 
