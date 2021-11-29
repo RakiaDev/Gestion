@@ -30,7 +30,7 @@
           <img src="Jenkins.png"  height="300" width="300"> 
 		  
 	  </br>
-          <img src="dockerlogo.png"  height="300" width="300"> 
+          <img src="dockerlogo.jpg"  height="300" width="300"> 
   </center>
 
 
