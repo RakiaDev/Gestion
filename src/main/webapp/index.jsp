@@ -23,14 +23,12 @@
   <center> 
 	  
 	  
-	  <h1 >  Groupe devops :)------------->Tests Jenkins |> <img src="good.png"  height="50" width="50"> </h1> 
+	  <h1 >  Hi Rakia devops :)------------->Tests Jenkins |> <img src="good.png"  height="50" width="50"> </h1> 
 	  
 	  
 	  </br>
           <img src="Jenkins.png"  height="300" width="300"> 
 		  
-	  </br>
-          <img src="dockerlogo.jpg"  height="300" width="300"> 
   </center>
 
 
