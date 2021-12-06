@@ -17,17 +17,20 @@
   
 <body>
 	
-<header id="header"><p>Ex1 @Devops@ RAKIA Exam 701: DevOps Tools Engineer | LPI...</p></header>
+<header id="header"><p>My First Project</p></header>
 	</br></br>
 
   <center> 
 	  
 	  
-	  <h1 >  Hi Rakia devops :)------------->Tests Jenkins |> <img src="good.png"  height="50" width="50"> </h1> 
+	  <h1 >  Hi Rakia devops :)-------------> Git,Jenkins,Docker and Ansible <img src="good.png"  height="50" width="50"> </h1> 
 	  
 	  
 	  </br>
-          <img src="Jenkins.png"  height="300" width="300"> 
+          <img src="Jenkins.png"  height="150" width="150" text-align=center> 
+          
+       </br>
+          
 		  
   </center>
 
